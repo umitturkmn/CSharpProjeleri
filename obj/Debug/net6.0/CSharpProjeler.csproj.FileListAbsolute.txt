@@ -1,0 +1,15 @@
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/newProject/bin/Debug/net6.0/CSharpProjeler
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/newProject/bin/Debug/net6.0/CSharpProjeler.deps.json
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/newProject/bin/Debug/net6.0/CSharpProjeler.runtimeconfig.json
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/newProject/bin/Debug/net6.0/CSharpProjeler.dll
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/newProject/bin/Debug/net6.0/ref/CSharpProjeler.dll
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/newProject/bin/Debug/net6.0/CSharpProjeler.pdb
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/newProject/obj/Debug/net6.0/CSharpProjeler.csproj.AssemblyReference.cache
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/newProject/obj/Debug/net6.0/CSharpProjeler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/newProject/obj/Debug/net6.0/CSharpProjeler.AssemblyInfoInputs.cache
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/newProject/obj/Debug/net6.0/CSharpProjeler.AssemblyInfo.cs
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/newProject/obj/Debug/net6.0/CSharpProjeler.csproj.CoreCompileInputs.cache
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/newProject/obj/Debug/net6.0/CSharpProjeler.dll
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/newProject/obj/Debug/net6.0/ref/CSharpProjeler.dll
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/newProject/obj/Debug/net6.0/CSharpProjeler.pdb
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/newProject/obj/Debug/net6.0/CSharpProjeler.genruntimeconfig.cache
